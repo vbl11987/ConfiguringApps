@@ -1,0 +1,8 @@
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/bin/Debug/netcoreapp1.1/ConfiguringApps.deps.json
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/bin/Debug/netcoreapp1.1/ConfiguringApps.runtimeconfig.json
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/bin/Debug/netcoreapp1.1/ConfiguringApps.runtimeconfig.dev.json
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/bin/Debug/netcoreapp1.1/ConfiguringApps.dll
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/bin/Debug/netcoreapp1.1/ConfiguringApps.pdb
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/netcoreapp1.1/ConfiguringApps.AssemblyInfo.cs
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/netcoreapp1.1/ConfiguringApps.dll
+/home/boris/dotnet/ConfiguringApps/ConfiguringApps/obj/Debug/netcoreapp1.1/ConfiguringApps.pdb
